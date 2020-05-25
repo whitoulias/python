@@ -1,4 +1,6 @@
-# in order to create the map we need coordinates
+#The project requires to visualize specific neighborhoods in Toronto
+
+# in order to create the map we need the coordinates of Toronto
 # so first we need to import geopy so to find coordinates
 
 import geopy as gp
